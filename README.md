@@ -1,4 +1,5 @@
 # ML-with-GPU-Acceleration
+This project is aimed to experiment and compare between a traditional CPU-based ML pipeline (using Pandas and standard XGBoost) to an accelerated, GPU-native workflow using NVIDIA's RAPIDS ecosystem, and quantify the performance speedup, particularly with large data volumes.
 
 ## Key Learnings:
 **1. What is CUDA?**
